@@ -4,6 +4,7 @@ title: "Deploying Ghost"
 date: 2024-02-07 14:30:00 +0100
 categories: blog
 author: <author_id> 
+published: true
 ---
 
 ### Why Ghost

@@ -4,6 +4,7 @@ title: "On my first network"
 date: 2024-02-04 14:30:00 +0100
 categories: blog
 author: <author_id> 
+published: true
 ---
 
 

@@ -13,7 +13,7 @@ And I went all in. I got a gym membership and a personal trainer. I started diet
 And 2020 started well, I kept it going, but started eating more normal, I was working out 3 times a week, I attended a running class at my gym and I still did 2 easy runs a week.
 Then COVID hit. 
 
-<img src="/assets/images/covid_home.png" alt="AI generated">   
+<img src="/assets/images/covid_home.png" alt="AI generated" width="50%" height="auto">
 
 I tried to keep going, with some runs and some workouts at home. But that little voice inside my head got stronger. "I have done this once, it will be easy to get back into it" or "when COVID ends it will be back to normal".  But COVID was not over in a few weeks or months.
 And then I became a father, moved outside the city and got a new job (it was some wild months in late 2021). But I had less time for personal stuff. I did try some workouts, but never managed to get back into it consistently.

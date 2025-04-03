@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting over - My path from Sedentary to Sentrumsløpet - Part One"
-date: 2025-04-03 21:50:00 +0100
+date: 2025-04-03 21:50:00 +0200
 categories: blog
 author: <author_id> 
 published: true

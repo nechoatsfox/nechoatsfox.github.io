@@ -13,8 +13,8 @@ At home, my world revolves around my sometimes delightful two-year-old, who brin
 This are some projects I have done:
 
   - [Kryptisk cybersikkerhet](https://kryptisk.substack.com/) - A Norwegian newsletter about cybersecurity (**not active**)
-  - [Norsec](norsec.dev) - A discord server for people interested in cybersecurity
-  - [Perspektivet](perspektivet.news) - A monthly newsletter about cybersecurity (in Norwegian) 
+  - [Norsec](https://norsec.dev) - A discord server for people interested in cybersecurity
+  - [Perspektivet]https://(perspektivet.news) - A monthly newsletter about cybersecurity (in Norwegian) 
 
 
 ### What is Talking Lama?

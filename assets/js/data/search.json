@@ -6,7 +6,7 @@ swcache: true
 [
   {% for post in site.posts %}
     {%- capture description -%}
-      {% include post-description.html %}
+      {{ post.description | default: post.excerpt | strip_html | strip_newlines | truncate: 200 }}
     {%- endcapture -%}
   {
     "title": {{ post.title | jsonify }},

@@ -14,7 +14,8 @@ This are some projects I have done:
 
   - [Kryptisk cybersikkerhet](https://kryptisk.substack.com/) - A Norwegian newsletter about cybersecurity (**not active**)
   - [Norsec](https://norsec.dev) - A discord server for people interested in cybersecurity
-  - [Perspektivet](https://(perspektivet.news) - A monthly newsletter about cybersecurity (in Norwegian) 
+  - [Perspektivet](https://perspektivet.news) - A monthly newsletter about cybersecurity (in Norwegian)   
+  - [Macartifact](https://macartifact.com) - A database for digital forensic investigators working with macOS and iOS systems    
 
 
 ### What is Talking Lama?
